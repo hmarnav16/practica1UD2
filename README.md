@@ -7,8 +7,8 @@
 - Fecha: 9 de Noviembre 2026 
 
 ## Sitio publicado 
-- Web en GitHub Pages: [Abrir sitio](https://github.com/hmarnav16/practica1UD2) 
-- Repositorio en GitHub: [Abrir repositorio](https://hmarnav16.github.io/practica1UD2/) 
+- Web en GitHub Pages: [Abrir sitio](https://hmarnav16.github.io/practica1UD2/)
+- Repositorio en GitHub: [Abrir repositorio](https://github.com/hmarnav16/practica1UD2)
 
 ## Estructura del proyecto 
 - \`index.html\`: Página principal con resúmenes de contenidos de deportivos JDM. 
