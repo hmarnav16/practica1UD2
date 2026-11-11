@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>El Rincón del Automovilismo: Leyendas (1980-2000)</title>
+    <link>https://hmarnav16.io/practica1UD2/</link>
+    <description>Web dedicada a la historia, datos técnicos y recursos multimedia de deportivos legendarios de los años 80 al 2000.</description>
+    <language>es</language>
+
+    <item>
+      <title>La Era Dorada de los Deportivos Japoneses</title>
+      <link>https://hmarnav16.io/practica1UD2/blog.html</link>
+      <guid>https://hmarnav16.io/practica1UD2/blog.html</guid>
+      <pubDate>Fri, 06 Nov 2026 10:00:00 +0100</pubDate>
+      <description>Artículo histórico y datos sobre el Toyota Supra, Nissan Skyline y Mitsubishi Eclipse.</description>
+    </item>
+
+    <item>
+      <title>Especificaciones Técnicas</title>
+      <link>https://hmarnav16.io/practica1UD2/tabla.html</link>
+      <guid>https://hmarnav16.io/practica1UD2/tabla.html</guid>
+      <pubDate>Fri, 06 Nov 2026 10:00:00 +0100</pubDate>
+      <description>Tabla comparativa con datos de los motores 2JZ-GTE, 3S-GTE, RB26DETT y 4G63T.</description>
+    </item>
+
+    <item>
+      <title>Galería Multimedia de Deportivos</title>
+      <link>https://hmarnav16.io/practica1UD2/galeria.html</link>
+      <guid>https://hmarnav16.io/practica1UD2/galeria.html</guid>
+      <pubDate>Fri, 06 Nov 2026 10:00:00 +0100</pubDate>
+      <description>Imágenes, vídeos y audios sobre deportivos JDM</description>
+    </item>
+  </channel>
+</rss>
